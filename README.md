@@ -39,7 +39,7 @@ For installation instructions, please use the following links:
 ## Support & Problems
 
 We have a [troubleshooting document][troubleshooting], otherwise please use our
-[mailing list][mailing-list] for support issues and questions.
+[mailing list][mailing-list] for support issues and questions
 
 
 ## Bugs and feature requests
