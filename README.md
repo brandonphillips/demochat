@@ -202,7 +202,7 @@ You can read more about compositions in our docs, but we will also walk through 
 https://docs.codefresh.io/docs/create-composition
 
 
-Click the ___Composition___ view icon in the left pane, and click the ___Add Composition___..
+Click the ___Composition___ view icon in the left pane, and click the ___Add Composition___.
 
 ![Screenshot](https://codefresh.io/wp-content/uploads/2017/03/1.png)
 
