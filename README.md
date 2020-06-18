@@ -171,7 +171,7 @@ Click on ___Repositories___, and then click on the ___Pipelines___ gear.
 
 Scroll down to ___Workflow___, and you will see a ___Push to Docker___ button. If you have set up your credentials, click ___Save___ at the bottom of the screen. Otherwise- click on the ___integration page___ link.
 
-Write your User/Password info, and click ___Save___ to connect..
+Write your User/Password info, and click ___Save___ to connect.
 
 ![Screenshot](https://codefresh.io/wp-content/uploads/2017/03/20.png)
 
