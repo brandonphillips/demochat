@@ -220,7 +220,7 @@ Everything looks good here- so let's go ahead and launch by clicking the rocket 
 ![Screenshot](https://codefresh.io/wp-content/uploads/2017/04/savelaunch_final.png)
 
 
-Once it has completed, a link to our app will be displayed. Let's click it to see if it worked..
+Once it has completed, a link to our app will be displayed. Let's click it to see if it worked.
 
 
 ![Screenshot](https://codefresh.io/wp-content/uploads/2017/04/completed_in.png)
