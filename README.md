@@ -2,7 +2,7 @@ Build status: [![Codefresh build status]( https://g.codefresh.io/api/badges/buil
 Demo for Axway
 ![Let's Chat Greylock](http://i.imgur.com/0a3l5VF.png)
 ![Screenshot](http://i.imgur.com/C4uMD67.png)
-A self-hosted chat app for small teams or big Gal by [Security Compass][seccom].
+A self-hosted chat app for small teams or big Gal by [Security Compass][seccom]
 
 
 
